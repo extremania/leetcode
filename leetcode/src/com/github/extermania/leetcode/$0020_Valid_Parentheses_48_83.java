@@ -3,7 +3,7 @@ package com.github.extermania.leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class $0020_Valid_Parentheses {
+public class $0020_Valid_Parentheses_48_83 {
 	static class Solution {
 	    private static class Stack{
 	        List<Integer> list = new ArrayList<>();

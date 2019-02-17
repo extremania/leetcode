@@ -3,7 +3,7 @@ package com.github.extermania.leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-public class $0025_Reverse_Nodes_in_k_Group {
+public class $0025_Reverse_Nodes_in_k_Group_1_70 {
 	class Solution {
 	    public ListNode reverseKGroup(ListNode head, int k) {
 	        if(head==null) return null;

@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $0021_Merge_Two_Sorted_Lists {
+public class $0021_Merge_Two_Sorted_Lists_29_26 {
 	class Solution {
 	    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
 	        if(l1==null) return l2;

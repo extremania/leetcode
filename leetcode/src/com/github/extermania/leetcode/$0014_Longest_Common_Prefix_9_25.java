@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $0014_Longest_Common_Prefix {
+public class $0014_Longest_Common_Prefix_9_25 {
 	class Solution {
 	    public String longestCommonPrefix(String[] strs) {
 	        if(strs.length==0){

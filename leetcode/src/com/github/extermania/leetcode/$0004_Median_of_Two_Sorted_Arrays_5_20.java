@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $0004_Median_of_Two_Sorted_Arrays {
+public class $0004_Median_of_Two_Sorted_Arrays_5_20 {
 	static class Solution {
 		public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
 			int total = nums1.length + nums2.length;

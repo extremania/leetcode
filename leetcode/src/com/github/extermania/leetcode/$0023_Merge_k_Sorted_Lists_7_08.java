@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $0023_Merge_k_Sorted_Lists {
+public class $0023_Merge_k_Sorted_Lists_7_08 {
 	class Solution {
 	    public ListNode mergeKLists(ListNode[] lists) {
 	        ListNode node = null;

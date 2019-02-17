@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $0035_Search_Insert_Position_$$$ {
+public class $0035_Search_Insert_Position_66_46 {
 	class Solution {
 	    public int searchInsert(int[] nums, int target) {
 	        if (target <= nums[0])

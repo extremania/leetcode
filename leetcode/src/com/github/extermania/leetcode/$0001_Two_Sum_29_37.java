@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $0001_Two_Sum {
+public class $0001_Two_Sum_29_37 {
 	class Solution {
 	    public int[] twoSum(int[] nums, int target) {
 	        int a = 0;

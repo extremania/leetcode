@@ -3,7 +3,7 @@ package com.github.extermania.leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class $0019_Remove_Nth_Node_From_End_of_List {
+public class $0019_Remove_Nth_Node_From_End_of_List_2_02 {
 	class Solution {
 	    
 	    public ListNode removeNthFromEnd(ListNode head, int n) {

@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $0026_Remove_Duplicates_from_Sorted_Array {
+public class $0026_Remove_Duplicates_from_Sorted_Array_31_09 {
     public int removeDuplicates(int[] nums) {
         if(nums.length==0) return 0;
         int p = nums[0];

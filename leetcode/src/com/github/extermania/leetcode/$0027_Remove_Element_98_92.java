@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $0027_Remove_Element_$$$ {
+public class $0027_Remove_Element_98_92 {
 	class Solution {
 	    public int removeElement(int[] nums, int val) {
 	        int[] nums0 = new int[nums.length];

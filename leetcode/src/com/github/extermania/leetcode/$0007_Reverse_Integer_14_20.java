@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $0007_Reverse_Integer {
+public class $0007_Reverse_Integer_14_20 {
 	class Solution {
 		public int reverse(int x) {
 			try {

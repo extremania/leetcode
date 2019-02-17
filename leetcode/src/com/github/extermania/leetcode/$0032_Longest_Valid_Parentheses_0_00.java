@@ -3,7 +3,7 @@ package com.github.extermania.leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class $0032_Longest_Valid_Parentheses {
+public class $0032_Longest_Valid_Parentheses_0_00 {
 	static class Solution {
 		private static class Stack {
 			List<String> list = new ArrayList<>();
