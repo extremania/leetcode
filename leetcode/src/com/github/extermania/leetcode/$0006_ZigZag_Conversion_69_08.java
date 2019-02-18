@@ -1,10 +1,10 @@
 package com.github.extermania.leetcode;
 
-public class $0006_ZigZag_Conversion_27_67 {
+public class $0006_ZigZag_Conversion_69_08 {
 	class Solution {
 	    public String convert(String s, int numRows) {
 	        if(s.length()<=1 || numRows==1) return s;
-	        char[][] map = new char[numRows][s.length()];
+	        char[][] map = new char[numRows+1][s.length()];
 	        int row=0;
 	        int col=0;
 	        boolean mode=false; //false: top-down, //true: down-top
@@ -25,8 +25,8 @@ public class $0006_ZigZag_Conversion_27_67 {
 	            }
 	        }
 	        StringBuilder sb = new StringBuilder();
-	        for(int i=0; i<map.length; i++){
-	            for(int j=0; j<map[0].length; j++){
+	        for(int i=0; i<=numRows; i++){
+	            for(int j=0; j<=col; j++){
 	                if(map[i][j]!=0){
 	                    sb.append(map[i][j]);
 	                }
