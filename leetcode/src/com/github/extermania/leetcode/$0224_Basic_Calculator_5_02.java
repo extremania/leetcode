@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $0224_Basic_Calculator_0_00 {
+public class $0224_Basic_Calculator_5_02 {
 	static class Solution {
 		private static int calculate0(final String s) {
 			final String s0 = s;

@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class $0174_Dungeon_Game_0_00 {
+public class $0174_Dungeon_Game_5_11 {
 	static class Solution {
 		private static class FineList {
 			Map<Integer, Node> valMap;

@@ -3,7 +3,7 @@ package com.github.extermania.leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-public class $0115_Distinct_Subsequences_0_00 {
+public class $0115_Distinct_Subsequences_5_11 {
 	static class Solution {
 		static final Map<String, Integer> cache = new HashMap<>();
 
