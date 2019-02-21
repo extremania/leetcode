@@ -3,7 +3,7 @@ package com.github.extermania.leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-public class $0198_House_Robber_0_00 {
+public class $0198_House_Robber_12_99 {
 	static class Solution {
 	    
 	    static Map<String, Integer> cache = new HashMap<>();
