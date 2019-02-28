@@ -3,8 +3,10 @@ My Leetcode Solutions. I'm trying to resolve the problems of [LeetCode](https://
 
 ## My Perfect Solutions
 Here is my perfect solutions which reach more than 90.00% beat%.
-Problem|Beat|Solution
----|---|---
+
+|Problem|Beat|Solution|  
+|-------|----|--------|
+|TBC    |TBC |TBC     |
 
 ## My Favorite Problems
-Here is my favorite problems
+Here is my favorite problems list
