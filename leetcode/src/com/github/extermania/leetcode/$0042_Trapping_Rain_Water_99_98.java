@@ -1,11 +1,10 @@
 package com.github.extermania.leetcode;
 
-import java.util.Arrays;
-
-public class $0042_Trapping_Rain_Water_22_91 {
+public class $0042_Trapping_Rain_Water_99_98 {
 	class Solution {
 		public int trap(int[] height) {
-			int[] copy = Arrays.copyOf(height, height.length);
+	        int[] copy = new int[height.length];
+			System.arraycopy(height, 0, copy, 0, height.length);
 			int max1 = 0;
 			for (int i = 0; i < height.length; i++) {
 				if (height[i] < max1) copy[i] = max1;
