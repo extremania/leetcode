@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $0994_Rotting_Oranges_10ms {
+public class $0994_Rotting_Oranges_90_66 {
 	class Solution {
 		public int orangesRotting(int[][] grid) {
 			int rst = 0;

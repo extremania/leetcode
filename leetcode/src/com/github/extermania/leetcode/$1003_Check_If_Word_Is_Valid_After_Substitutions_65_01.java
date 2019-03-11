@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $1003_Check_If_Word_Is_Valid_After_Substitutions_19ms {
+public class $1003_Check_If_Word_Is_Valid_After_Substitutions_65_01 {
 	class Solution {
 	    public boolean isValid(String S) {
 	        if(S.length()%3!=0) return false;

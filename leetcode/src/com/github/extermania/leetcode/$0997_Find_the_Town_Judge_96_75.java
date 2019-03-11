@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $0997_Find_the_Town_Judge_6ms {
+public class $0997_Find_the_Town_Judge_96_75 {
 	class Solution {
 		   
 	    public int findJudge(int N, int[][] trust) {

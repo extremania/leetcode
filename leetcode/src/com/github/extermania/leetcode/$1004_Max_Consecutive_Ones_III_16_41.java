@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $1004_Max_Consecutive_Ones_III_123ms {
+public class $1004_Max_Consecutive_Ones_III_16_41 {
 	class Solution {
 	    int ocnt(int[] A){
 	        int cnt=0;

@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class $1001_Grid_Illumination_99ms {
+public class $1001_Grid_Illumination_83_77 {
 	class Solution {
 	    class Point{
 	        int x; int y;

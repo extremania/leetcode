@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class $1002_Find_Common_Characters_6ms {
+public class $1002_Find_Common_Characters_86_19 {
 	class Solution {
 	    int[] merge(int[] a, int[] b){
 	        int[] arr = new int[26];

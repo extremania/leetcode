@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $0999_Available_Captures_for_Rook_1ms {
+public class $0999_Available_Captures_for_Rook_100 {
 	class Solution {
 	    public int numRookCaptures(char[][] board) {
 	        for(int i=0; i<8; i++){
