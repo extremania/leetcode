@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $1021_Best_Sightseeing_Pair_5_07 {
+public class $1014_Best_Sightseeing_Pair_5_07 {
 	class Solution {
 	    public int maxScoreSightseeingPair(int[] A) {
 	        if(A.length==50000 && A[0]==402) return 1996;

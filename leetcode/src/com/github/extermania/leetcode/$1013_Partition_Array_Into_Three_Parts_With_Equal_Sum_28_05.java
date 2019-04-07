@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $1020_Partition_Array_Into_Three_Parts_With_Equal_Sum_28_05 {
+public class $1013_Partition_Array_Into_Three_Parts_With_Equal_Sum_28_05 {
 	class Solution {
 	    public boolean canThreePartsEqualSum(int[] A) {
 	        int sum = 0;

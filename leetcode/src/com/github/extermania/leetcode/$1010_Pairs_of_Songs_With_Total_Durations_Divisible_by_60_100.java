@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $1013_Pairs_of_Songs_With_Total_Durations_Divisible_by_60_100 {
+public class $1010_Pairs_of_Songs_With_Total_Durations_Divisible_by_60_100 {
 	class Solution {
 	    public int numPairsDivisibleBy60(int[] time) {
 	        if(time.length<=1) return 0;
