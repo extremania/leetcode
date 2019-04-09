@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $1021_Remove_Outermost_Parentheses_2ms {
+public class $1021_Remove_Outermost_Parentheses_98_98 {
 	class Solution {
 	    
 	    public String removeOuterParentheses(String S) {

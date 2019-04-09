@@ -3,7 +3,7 @@ package com.github.extermania.leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class $1023_Camelcase_Matching_2ms {
+public class $1023_Camelcase_Matching_18_27 {
 	class Solution {
 	    boolean f(char[] s1, char[] s2){
 	        if(s2.length>s1.length) return false;

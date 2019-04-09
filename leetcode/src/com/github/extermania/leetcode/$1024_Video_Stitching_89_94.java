@@ -3,7 +3,7 @@ package com.github.extermania.leetcode;
 import java.util.HashSet;
 import java.util.Set;
 
-public class $1024_Video_Stitching_1ms {
+public class $1024_Video_Stitching_89_94 {
 	class Solution {
 	    public int videoStitching(int[][] clips, int T) {
 	        boolean[][] dp = new boolean[clips.length][101];  
