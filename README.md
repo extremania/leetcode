@@ -2,7 +2,7 @@
 My Leetcode Solutions. I'm trying to resolve the problems of [LeetCode](https://leetcode.com/problemset/all/) without refer any other solutions. All of my solutions place on the this [package](https://github.com/extremania/leetcode/tree/master/leetcode/src/com/github/extermania/leetcode) with name convention as ${number}\_{problem}\_{beat%|runtime}
 
 ## Status
-349/1019 Solved - Easy 184 Medium 121 Hard 44
+354/1019 Solved - Easy 186 Medium 124 Hard 44
 
 ## My Perfect Solutions
 Here is my perfect solutions which reach more than 90.00% beat%. (only for Hard and Medium)
