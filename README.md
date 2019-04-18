@@ -7,14 +7,3 @@ My Leetcode Solutions. I'm trying to resolve the problems of [LeetCode](https://
 * Medium 136 
 * Hard 45
 
-## My Perfect Solutions
-Here is my perfect solutions which reach more than 90.00% beat%. (only for Hard and Medium)
-
-|Problem|Difficulty|Beat|Solution|  
-|-------|----------|----|--------|
-|[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Hard|99.98%|[Solution](https://github.com/extremania/leetcode/blob/master/leetcode/src/com/github/extermania/leetcode/%240042_Trapping_Rain_Water_99_98.java)|
-|[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)|Medium|100%|[Solution](https://github.com/extremania/leetcode/blob/master/leetcode/src/com/github/extermania/leetcode/%240228_Summary_Ranges_100.java)|
-
-
-## My Favorite Problems
-Here is my favorite problems list
