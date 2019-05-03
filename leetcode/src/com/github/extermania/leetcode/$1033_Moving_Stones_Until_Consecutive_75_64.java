@@ -2,7 +2,7 @@ package com.github.extermania.leetcode;
 
 import java.util.Arrays;
 
-public class $1033_Moving_Stones_Until_Consecutive_1ms {
+public class $1033_Moving_Stones_Until_Consecutive_75_64 {
 	class Solution {
 	    public int[] numMovesStones(int a, int b, int c) {
 	        int[] arr = new int[]{a, b, c};

@@ -3,7 +3,7 @@ package com.github.extermania.leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class $1034_Coloring_A_Border_1ms {
+public class $1034_Coloring_A_Border_99_38 {
 	class Solution {
 	    void f(int[][] grid, boolean[][] checked, int r, int c, int ori, int clr){
 	        if(r<0 || r>=grid.length || c<0 || c>=grid[0].length) return;

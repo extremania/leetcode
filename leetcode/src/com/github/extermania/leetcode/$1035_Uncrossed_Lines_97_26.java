@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $1035_Uncrossed_Lines_4ms {
+public class $1035_Uncrossed_Lines_97_26 {
 	class Solution {
 
 	    public int maxUncrossedLines(int[] A, int[] B) {
