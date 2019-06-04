@@ -2,7 +2,7 @@ package com.github.extermania.leetcode;
 
 import java.util.Arrays;
 
-public class $1051_Height_Checker_1ms {
+public class $1051_Height_Checker_96_41 {
 	class Solution {
 	    public int heightChecker(int[] heights) {
 	        if(heights.length<=1) return 0;

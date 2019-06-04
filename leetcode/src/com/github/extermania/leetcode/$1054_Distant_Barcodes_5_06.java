@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class $1054_Distant_Barcodes_1071ms {
+public class $1054_Distant_Barcodes_5_06 {
 	class Solution {
 	    
 	    class Node{

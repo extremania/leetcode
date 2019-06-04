@@ -1,6 +1,6 @@
 package com.github.extermania.leetcode;
 
-public class $1052_Grumpy_Bookstore_Owner_3ms {
+public class $1052_Grumpy_Bookstore_Owner_88_82 {
 	class Solution {
 	    public int maxSatisfied(int[] customers, int[] grumpy, int X) {
 	        int no = 0;
